@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kunjalpanchal/static/css/main.054a64ed.chunk.css",
+    "main.js": "/kunjalpanchal/static/js/main.e2c101da.chunk.js",
+    "main.js.map": "/kunjalpanchal/static/js/main.e2c101da.chunk.js.map",
+    "runtime~main.js": "/kunjalpanchal/static/js/runtime~main.d39a7987.js",
+    "runtime~main.js.map": "/kunjalpanchal/static/js/runtime~main.d39a7987.js.map",
+    "static/js/2.f18a303d.chunk.js": "/kunjalpanchal/static/js/2.f18a303d.chunk.js",
+    "static/js/2.f18a303d.chunk.js.map": "/kunjalpanchal/static/js/2.f18a303d.chunk.js.map",
+    "index.html": "/kunjalpanchal/index.html",
+    "precache-manifest.cf5b6faeb9089acef7514338a92bbeb0.js": "/kunjalpanchal/precache-manifest.cf5b6faeb9089acef7514338a92bbeb0.js",
+    "service-worker.js": "/kunjalpanchal/service-worker.js",
+    "static/css/main.054a64ed.chunk.css.map": "/kunjalpanchal/static/css/main.054a64ed.chunk.css.map",
+    "static/media/Resume.pdf": "/kunjalpanchal/static/media/Resume.71e7be2f.pdf",
+    "static/media/me.png": "/kunjalpanchal/static/media/me.d8215444.png"
+  }
+}
